@@ -1,7 +1,7 @@
 
 import sys
 from Prepare import run
-Debug = True
+Debug = False
 
 if not Debug:
     args = sys.argv
