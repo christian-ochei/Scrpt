@@ -32,3 +32,7 @@ print 'executed in:',time()-t1,'sec'
 ```
 
 And Watch the result get printed out
+
+# Be aware, This is not a complete project, 
+# There are bugs and Many other core programing laguage 
+# features like Error messages has not been implemented.
