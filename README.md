@@ -7,7 +7,7 @@
     python main.py Factorial_Demo.srp
 
 
-```python:
+```python
 Factorial(n)
    if n == 1
        return n
