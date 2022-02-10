@@ -1,5 +1,7 @@
 # Scrpt
-### A small Open Source High Level Programing Language
+#### A small Open Source High Level Programing Language
+
+#####  I Designed it to have as clean of a syntax I could think of while making its source code as readable as possible
 
 
 #### Feel free to run 
