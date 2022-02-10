@@ -38,3 +38,11 @@ And Watch the result get printed out
 #### Be aware, This is not a complete project, 
 There are bugs and many other core programing laguage 
 features like Error messages has not been implemented.
+
+
+#
+
+I wrote a blog post on my progress and what it felt like creating Scrpt from scratch
+
+[I Designed A Programing Language. And Here Is My Experience]( https://christian-o.medium.com/i-designed-scrpt-engine-and-here-is-my-experience-81938a04a717)
+
