@@ -5,6 +5,5 @@
 *.bib linguist-detectable=false
 *.bst linguist-detectable=false
 
-# Optional: mark as documentation instead
-# *.tex linguist-documentation=true
-# *.sty linguist-documentation=true
+*.html linguist-documentation=true
+*.htm linguist-documentation=true
