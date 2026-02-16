@@ -1,10 +1,15 @@
-# Force TeX out of stats
+# --- Remove LaTeX completely from language stats ---
 *.tex linguist-vendored=true
 *.sty linguist-vendored=true
 *.cls linguist-vendored=true
 *.bib linguist-vendored=true
 *.bst linguist-vendored=true
 
-# Treat HTML as documentation
-*.html linguist-documentation=true
-*.htm linguist-documentation=true
+# If TeX is inside folders
+latex/** linguist-vendored=true
+docs/** linguist-documentation=true
+papers/** linguist-vendored=true
+
+# --- Remove HTML completely ---
+*.html linguist-vendored=true
+*.htm linguist-vendored=true
