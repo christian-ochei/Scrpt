@@ -15,3 +15,11 @@ papers/** linguist-vendored=true
 *.htm linguist-vendored=true
 docs/** linguist-vendored=true
 
+# Ignore build artifacts completely
+build/** linguist-vendored=true
+
+# Ignore executables
+*.exe linguist-vendored=true
+
+# Just in case
+*.tex linguist-vendored=true
