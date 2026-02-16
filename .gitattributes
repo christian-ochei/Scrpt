@@ -1,7 +1,10 @@
-*.tex linguist-detectable=false
-*.sty linguist-detectable=false
-*.cls linguist-detectable=false
-*.bib linguist-detectable=false
-*.bst linguist-detectable=false
+# Force TeX out of stats
+*.tex linguist-vendored=true
+*.sty linguist-vendored=true
+*.cls linguist-vendored=true
+*.bib linguist-vendored=true
+*.bst linguist-vendored=true
+
+# Treat HTML as documentation
 *.html linguist-documentation=true
 *.htm linguist-documentation=true
