@@ -13,3 +13,5 @@ papers/** linguist-vendored=true
 # --- Remove HTML completely ---
 *.html linguist-vendored=true
 *.htm linguist-vendored=true
+docs/** linguist-vendored=true
+
