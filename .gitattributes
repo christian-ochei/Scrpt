@@ -1,3 +1,10 @@
-*.html linguist-documentation=true
-*.htm linguist-documentation=true
-*.tex linguist-documentation=true
+# Ignore TeX / LaTeX from language stats
+*.tex linguist-detectable=false
+*.sty linguist-detectable=false
+*.cls linguist-detectable=false
+*.bib linguist-detectable=false
+*.bst linguist-detectable=false
+
+# Optional: mark as documentation instead
+# *.tex linguist-documentation=true
+# *.sty linguist-documentation=true
