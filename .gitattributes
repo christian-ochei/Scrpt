@@ -1,3 +1,2 @@
-.py
-.cpp
-.c
+*.html linguist-documentation=true
+*.htm linguist-documentation=true
