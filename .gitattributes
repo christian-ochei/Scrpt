@@ -1,9 +1,7 @@
-# Ignore TeX / LaTeX from language stats
 *.tex linguist-detectable=false
 *.sty linguist-detectable=false
 *.cls linguist-detectable=false
 *.bib linguist-detectable=false
 *.bst linguist-detectable=false
-
 *.html linguist-documentation=true
 *.htm linguist-documentation=true
